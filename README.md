@@ -1,4 +1,7 @@
-# Toy Store
+<h1 align="center">Toy Store</h1>
+<div align="center">
+  <img width="825" height="550" alt="Screenshot 2025-12-27 at 9 13 16 PM" align="center" src="https://github.com/user-attachments/assets/06b49de6-fe0a-495c-8b0a-bf653a0e78f7" />  
+</div>
 
 ## Overview
 
