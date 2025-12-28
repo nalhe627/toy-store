@@ -1,0 +1,233 @@
+3000000016;Yakuza 0;90.05;Sega
+0845728850;Barbie, Game Buff;60.10;13;D
+7703281617;Shogun/Samurai Swords, Game Demon;90.75;12;1
+2000000027;Kirby and the Forgotten Land;77.09;HAL Laboratory
+6018470981;Fox, goose and bag of beans puzzle;21.69;7;2500
+4662861666;Acrostic;70.84;11;2500
+9514194360;King Oil, Game Loop;9.65;12;2
+3000000047;Bayonetta;58.72;Nex Entertainment
+9923812551;Shadow Hunters, Game Rush;57.02;3;1
+4774316121;Snake cube;184.21;9;500
+7187309492;Risk, Game Sky;70.42;10;1
+0554378222;Elizabeth I, Game Mafia;40.34;12;H
+4463241698;KenKen;93.29;5;1000
+4150799965;Packing problem;21.59;13;2500
+2000000000;Elden Ring;46.34;Bandai Namco Entertainment
+4935699431;Tangram;291.57;12;2500
+7643992605;Shengguan Tu, Game Buff;67.78;3;1
+8840576104;Tsuro of the Seas, Game Sensor;175.98;6;1
+3000000048;Stardew Valley;87.26;ConcernedApe
+2000000014;Bloodborne;60.16;FromSoftware
+4863437054;Logic puzzle;265.62;11;1000
+7596463022;Strange Synergy, Gamefluent;80.41;6;1
+5012387837;Cryptic crossword;12.14;13;2500
+0346965428;Army men, Gamezoid;238.78;8;D
+2000000006;Omori;41.52;OMOCAT
+0113513686;Toy soldier, Gamen;14.06;2;A
+0642429383;Julius Caesar, Game Demon;110.79;5;D
+5708657865;Three cups problem;6.05;13;2500
+4459648851;Crossword puzzle;278.72;8;1000
+3000000046;Shin Megami Tensei V;41.73;Atlus
+2000000043;Outer Wilds;70.91;Mobius Digital
+3000000009;NieR: Automata;52.38;PlatinumGames
+2000000008;Among Us;67.51;InnerSloth
+2000000005;Minecraft;63.18;Mojang Studios
+6147356663;Edge-matching puzzle;6.28;12;2500
+9138814396;Titan, Game Reboot;65.95;13;2
+3000000025;God of War Ragnar�k;65.56;Sony Interactive Entertainment
+8987410474;Bookchase, Game Mach;97.72;9;2
+6678014194;Stick puzzle;295.52;11;2500
+3000000022;Metal Gear Rising: Revengeance;31.03;Konami
+4205059343;Jigsaw puzzle;67.37;8;2500
+3000000035;Sekiro: Shadows Die Twice;99.70;FromSoftware
+5645765685;Ball-in-a-maze puzzle;206.65;9;500
+6114587612;Morpion solitaire;47.89;5;2500
+5637161167;Kakuro;0.33;14;1000
+9258568559;Jenga, Game Reboot;49.34;10;2
+9074383778;Blue Max, Gamearo;199.37;11;1
+7211390797;Poleconomy, Game Throne;211.94;5;1
+7001540358;Ghettopoly, Gamen;7.35;10;2
+8685655988;Betrayal at House on the Hill, Gamegenix;131.52;9;2
+0219383891;Leonardo da Vinci, Game Zombie;48.44;14;H
+4831187177;Tiling puzzle;85.60;1;2500
+2000000003;Undertale;42.56;tobyfox
+4355449938;Situation puzzle;224.72;12;500
+5236873244;T puzzle;222.76;13;1000
+5978960341;Pirate loot problem;15.30;7;2500
+5059382936;Mechanical puzzle;240.06;3;2500
+6717226220;Riddles;98.84;10;2500
+4464788387;Soma cube;68.23;12;500
+5494530303;Plate-and-ring puzzle;12.51;3;500
+5905553294;Alpha Triangle;17.55;13;500
+3000000019;Super Mario Odyssey;75.81;Nintendo
+4084960372;Sudoku;264.27;5;1000
+7088724445;Clue Jr.: Case of the Missing Pet, Game Reboot;97.22;6;1
+6855604945;Fifteen puzzle;98.72;10;500
+5964401598;N-puzzle;0.65;10;2500
+7666840048;Anti-Monopoly, Game Reboot;231.32;8;2
+8497620960;Diplomacy, Game Sensor;58.25;7;1
+1128983567;American Girl, Game Shadow;14.22;5;A
+6929408397;Chess problem;10.62;14;1000
+5009922251;Magic square;43.81;12;2500
+1396272830;Power Rangers, Game Mach;277.40;12;A
+9218558662;The Great Train Robbery, Game Zombie;6.92;2;1
+3000000017;Red Dead Redemption 2;56.39;Take-Two Interactive
+6886557808;Nikoli;66.10;8;1000
+5114057845;Insight;100.14;8;2500
+2000000036;Final Fantasy VII;31.80;Square
+4661866503;Maze;46.84;4;2500
+5958291403;Cryptogram;128.95;2;1000
+1772751359;Teddy bear, Game Reboot;221.46;8;H
+1698543210;Cabbage Patch Kids, Game Loop;148.55;6;D
+1167480102;Transformers, Game Zombie;9.41;10;H
+9163940865;Blood Feud in New York, Game Mafia;25.48;12;2
+7586140827;Battle Sheep, Game Sensor;266.57;14;2
+5279323659;Einstein's Puzzle;182.61;3;1000
+4796227955;Matchstick puzzle;126.86;9;500
+3000000021;Hi-Fi Rush;49.73;Tango Gameworks
+4771103439;Rebus;64.81;9;1000
+2000000023;Grand Theft Auto V;59.16;Rockstar North
+5242279001;Induction puzzles;31.47;11;2500
+1411602724;Frozen Charlotte, Game Sky;32.99;6;A
+5247156109;Verbal arithmetic;8.29;11;1000
+4576216782;Eternity puzzle;61.67;8;500
+6853280706;Happy Cube;77.68;7;1000
+4134304987;Pentomino;59.30;9;2500
+9056736113;Khet, Game Sky;62.11;5;1
+4319739200;Peg solitaire;53.23;8;500
+5239019250;Nob Yoshigahara Puzzle Design Competition;67.20;5;500
+7393662390;Star Wars Tactics, Game Loop;3.44;3;1
+7691410700;Hey, That's My Fish!, Game Buff;293.78;9;1
+9493833470;Ludo, Game Mafia;145.95;14;1
+1361154872;Topsy-Turvy doll, Game Survival;287.91;8;H
+8793598849;Eclipse, Game Sky;50.61;6;1
+0069265270;Amish doll, Game Mafia;25.59;2;H
+6401250594;Disentanglement puzzle;213.09;1;2500
+3000000039;Signalis;69.20;rose-engine
+3000000033;Super Smash Bros. Ultimate;52.90;Sora
+3000000042;Fallout: New Vegas;85.96;Obsidian Entertainment
+2000000028;Disco Elysium: The Final Cut;63.98;ZA/UM
+0298753495;Parian doll, Game Buff;206.13;1;A
+2000000010;Persona 5 Royal;33.54;Atlus USA
+8584372936;American Megafauna, Game Loop;38.49;7;1
+7785377855;Bang!, Game Pixel;89.51;9;1
+5248837254;Lock puzzle;32.29;5;1000
+1559749393;Star Wars, Game Demon;97.22;3;H
+4353818087;Eight queens puzzle;15.69;5;2500
+7854452599;Hotel, Game Sensor;82.80;10;1
+1200457201;Isaac Newton, Gamen;0.33;11;H
+1672553954;Queen Victoria, Game Mafia;18.29;2;A
+5466369452;Minus Cube;98.61;13;2500
+5380257078;Geomagic square;110.07;1;500
+7837317368;TEG, Game Reboot;76.34;1;1
+8934865506;Djambi, Game Shadow;78.76;3;2
+2000000013;Portal 2;30.33;Valve
+2000000012;God of War;41.38;Sony Interactive Entertainment
+1661435290;Voodoo doll, Game Loop;198.63;3;A
+6045331143;Computer puzzle game;98.77;13;500
+7089315414;Tsuro, Gamen;176.91;1;1
+0970660308;Baby Alive, Game Assassin;214.41;14;D
+6001104201;Tour puzzle;114.71;13;1000
+3000000029;Marvel's Spider-Man;46.11;Insomniac Games
+9399563748;Monopoly, Game Survival;47.52;4;2
+6388328760;Sokoban;64.51;2;1000
+6333851004;Egg of Columbus;0.33;10;500
+5307695541;Brain teaser;4.74;11;1000
+3000000011;Stray;76.13;BlueTwelve Studio
+6736127390;Globe puzzle;82.67;12;2500
+3000000045;Doom;45.74;id Software
+7935086963;StarCraft: The Board Game, Gameado;50.81;5;1
+1989637627;Abraham Lincoln, Game Throne;60.10;5;H
+4079383569;Daughter in the box;90.01;13;1000
+2000000038;Genshin Impact;77.61;miHoYo
+0902986179;Celebrity doll, Game Orc;28.06;2;H
+8076566788;Star Wars Epic Duels, Game Reboot;285.25;14;2
+1333295538;Ball-jointed doll, Gameara;14.49;10;A
+4058104820;Rubik's Cube;48.09;8;500
+2000000024;Cyberpunk 2077;37.06;CD Projekt RED
+9870097486;Castle Risk, Game Sky;64.10;10;2
+5030016202;Gry;89.11;12;500
+2000000037;Persona 4 Golden;97.50;NIS America
+1731377211;Groovy Girls, Game Loop;80.66;3;H
+8085889603;1313 Dead End Drive, Game Zombie;43.54;10;1
+6245496583;Bull's Eye[disambiguation needed];134.02;6;500
+1963069543;Chatty Cathy, Game Survival;120.37;5;A
+1091374555;William Shakespeare, Game Sky;70.86;14;H
+1778180329;George Washington, Gamegenix;192.31;12;H
+2000000040;Resident Evil Village;91.67;Capcom
+6270173616;Knight's Tour;27.44;7;500
+0766777773;Fashion doll, Game Sky;42.18;12;D
+5411798199;Logo extraction puzzle;201.47;8;2500
+8441793657;Solarquest, Game Orc;112.00;6;2
+5240256540;Prisoners and hats puzzle;28.02;6;1000
+8616804705;Mikado, Game Pixel;9.32;9;1
+3000000031;NieR Replicant ver.1.22474487139...;31.25;Toylogic
+6019930308;Tsumeshogi;250.13;7;2500
+5140173358;Wire-and-string puzzle;260.31;13;500
+9806439465;Attack!, Gamen;19.82;12;2
+0693095326;Napoleon, Gamescape;14.16;10;H
+2000000002;The Legend of Zelda: Breath of the Wild;63.34;Nintendo
+4401933289;Tower of Hanoi;78.96;5;2500
+6487767393;Nurikabe;67.28;5;500
+8362861720;Heroscape, Game Pixel;132.21;7;2
+2000000015;Celeste;36.29;Extremely OK Games
+9108635194;Spy Alley, Game Orc;29.47;1;2
+5726898779;Pocket Cube;42.83;1;1000
+5882978986;Latin square;130.74;3;500
+5220088189;Mahjong solitaire;176.03;1;500
+7734720369;Doom: The Boardgame, Gamefluent;174.24;10;2
+2000000004;Hollow Knight;87.13;Team Cherry
+7397838299;Axis & Allies, Game Mach;6.98;7;1
+5419349327;Burr puzzle;227.21;11;1000
+8573975959;War on Terror, Game Survival;104.63;7;2
+7344775739;Coppit, Game Buff;250.19;9;2
+6375942616;Graeco-Latin square;74.07;11;2500
+2000000007;Metroid Dread;77.54;Nintendo
+9527795179;Summit, Game Orc;204.74;11;1
+5102451719;Three-cottage problem;33.79;7;2500
+4844180696;Cross Sums;73.86;4;500
+3000000026;Xenoblade Chronicles 3;62.49;Monolith Soft
+3000000041;Super Mario Galaxy;66.66;Nintendo EAD
+2000000030;Dark Souls III;74.02;Bandai Namco Entertainment
+9898959982;Terakh, Gamefluent;236.57;2;1
+3000000018;Portal;64.03;Valve
+6602785768;Chess puzzle;19.44;13;2500
+1829395687;Albert Einstein, Game Pixel;22.47;7;H
+8999104279;Blokus, Gamearo;76.78;11;2
+9336740135;Glückshaus, Game Orc;61.77;12;1
+3000000044;Resident Evil 2;52.89;Capcom
+2000000001;Hades;64.96;Supergiant Games
+6445676597;Sliding puzzle;42.05;4;500
+2000000020;Pok�mon Legends: Arceus;61.42;Nintendo
+4599428616;Back from the klondike;29.29;7;500
+1024162826;Japanese traditional dolls, Game Demon;139.99;12;H
+3000000049;The Last of Us Part II;95.26;Naughty Dog
+1147205649;Ninja Turtles, Gamezoid;46.15;10;A
+0496522522;Anatomically correct doll, Game Rush;171.46;13;H
+2000000034;Cuphead;62.75;Studio MDHR
+1918096709;Karl Marx, Gameara;76.30;10;A
+4639887432;Speedcubing;62.35;14;500
+5446463966;Rubik's Magic;15.71;7;2500
+4772797789;Merkle's Puzzles;69.99;7;500
+9150054745;King of Tokyo, Gamegenix;223.23;5;1
+5970554935;Letter bank;107.75;11;1000
+5334485537;Thinking outside the box;96.33;1;2500
+9649393637;Finance, Game Assassin;5.48;7;2
+6596226544;Rattle puzzle;43.21;5;1000
+4731499724;Problem solving;93.08;11;1000
+6583467137;Paint by numbers;287.38;11;2500
+3000000032;Super Mario 64;70.02;Nintendo
+7235647474;13 Dead End Drive, Game Assassin;55.18;10;1
+6957748827;Rubik's Revenge;73.88;13;1000
+5880146101;Wire puzzle;128.90;10;1000
+5972333473;Knights and knaves;106.99;2;2500
+4585852723;Tsumego;292.41;7;2500
+7824482027;The Farming Game, Game Throne;174.14;13;1
+1295451746;Christopher Columbus, Gamearo;227.67;9;H
+0131612280;Peg wooden doll, Game Loop;66.06;4;H
+4627106401;Lateral thinking;21.19;7;2500
+1579214984;Beethoven, Game Loop;15.36;12;A
+5442572423;Mathematical puzzle;237.77;13;1000
+8947640910;Exploding Kittens, Game Pixel;73.07;9;2
+6507258098;Anagram;77.30;3;500
+0412938521;Troll doll, Game Sky;90.67;3;D
